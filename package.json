@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "semantic-release-test",
+  "name": "@manudeli/semantic-release-test",
   "author": "마누",
   "module": "dist/semantic-release-test.esm.js",
   "size-limit": [
